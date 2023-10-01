@@ -1,0 +1,1 @@
+ In practice, RandomizedSearchCV is often preferred when you have limited computational resources or a large hyperparameter space, while GridSearchCV is suitable when you have a small and well-defined set of hyperparameters to tune.
